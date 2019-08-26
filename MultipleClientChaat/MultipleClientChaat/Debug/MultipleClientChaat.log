@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Osama Al Mazloum\source\repos\MultipleClientChaat\MultipleClientChaat\main.cpp(11,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\Osama Al Mazloum\source\repos\MultipleClientChaat\MultipleClientChaat\main.cpp(127,24): warning C4018:  '<': signed/unsigned mismatch
+  MultipleClientChaat.vcxproj -> C:\Users\Osama Al Mazloum\source\repos\MultipleClientChaat\Debug\MultipleClientChaat.exe
